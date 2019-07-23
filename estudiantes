@@ -1,0 +1,100 @@
+[
+{
+"nombre":"Narcisa Guadalupe",
+"apellido":"Astudillo Fajardo",
+"direccion":"Cuenca",
+"edad":"19",
+"sexo":"Femenino"
+},
+{
+"nombre":"José Ismael",
+"apellido":"Campoverde Minchala",
+"direccion":"Azogues",
+"edad":"19",
+"sexo":"Masculino"
+},
+{
+"nombre":"Lorena Pamela",
+"apellido":"Dután Pérez",
+"direccion":"Azogues",
+"edad":"19",
+"sexo":"Femenino"
+},
+{
+"nombre":"Freddy Patricio",
+"apellido":"Herrera Pinos",
+"direccion":"Azogues",
+"edad":"20",
+"sexo":"Masculino"
+},
+{
+"nombre":"Geovanny Patricio",
+"apellido":"Herrera Pinos",
+"direccion":"Azogues",
+"edad":"20",
+"sexo":"Masculino"
+},
+{
+"nombre":"Esthela Maribel",
+"apellido":"Lata Sumba",
+"direccion":"Azogues",
+"edad":"19",
+"sexo":"Femenino"
+},
+{
+"nombre":"Bolívar Agustín",
+"apellido":"Ortega Saquisilí",
+"direccion":"Charasol",
+"edad":"20",
+"sexo":"Masculino"
+},
+{
+"nombre":"Karol Mishell",
+"apellido":"Peñafiel Martínez",
+"direccion":"Azogues",
+"edad":"18",
+"sexo":"femenino"
+}
+{
+"nombre":"Eric Steve",
+"apellido":"Peralta Quevedo",
+"direccion":"Azogues",
+"edad":"20",
+"sexo":"Masculino"
+},
+{
+"nombre":"Jonatan Angel",
+"apellido":"Peralta Yumbka",
+"direccion":"Azogues",
+"edad":"20",
+"sexo":"Masculno"
+},
+{
+"nombre":"Bryan Paúl",
+"apellido":"Romero Lema",
+"direccion":"Biblian",
+"edad":"20",
+"sexo":"Masculino"
+},
+{
+"nombre":"Mercy Mélida",
+"apellido":"Sumba Fernández",
+"direccion":"Azogues",
+"edad":"19",
+"sexo":"Femenino"
+},
+{
+"nombre":"Jaime Rodrígo",
+"apellido":"Sumba Inga",
+"direccion":"Azogues",
+"edad":"22",
+"sexo":"Maculino"
+},
+{
+"nombre":"Jefferson Mauricio",
+"apellido":"Trelles Riera",
+"direccion":"Paute",
+"edad":"24",
+"sexo":"Masculino"
+}
+]
